@@ -1,0 +1,22 @@
+body {
+    background-color: antiquewhite;
+}
+
+form {
+    position: relative;
+    top: 40vh;
+    left: 37vw;
+}
+
+#question {
+    border: 1px solid black;
+    width: 25vw;
+    height: 25vh;
+    margin-bottom: 40px;
+    
+}
+
+/* #points {
+    
+} */
+
